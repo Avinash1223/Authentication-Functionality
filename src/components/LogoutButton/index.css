@@ -1,0 +1,6 @@
+/* Write your CSS code here */
+.btn {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+}
